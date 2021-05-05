@@ -1,5 +1,5 @@
 # spoj-python
-My SPOJ [account](https://pl.spoj.com/users/amorfati/)
+[My SPOJ account](https://pl.spoj.com/users/amorfati/)
 
 [CALC](https://pl.spoj.com/problems/CALC/)
 
